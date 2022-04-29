@@ -2,3 +2,5 @@ saksøk
 
 Kølle slask
 flaske plask
+Ja ()
+Nei (x)
